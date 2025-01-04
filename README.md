@@ -33,7 +33,7 @@ This project is a web application built using **Streamlit** that allows users to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/co2-emissions-prediction.git
+   git clone https://github.com/Muddapuakash/CO2-Emission-prediction-using-machine-learning-
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
